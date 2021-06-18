@@ -11,32 +11,32 @@ jobs:
     - name: Run a one-line script
       run: echo Hello World!
       
-  deploy-Dev:
+  deploy-dev:
   runs-on: ubuntu-latest
   environment: 
-    name: Dev
+    name: dev
     url: 'julioarruda.com'
     needs: build
   steps:
     - name: Run a one-line script
       run: echo Deploy Dev
       
-  deploy-Hmg:
+  deploy-hmg:
   runs-on: ubuntu-latest
   environment: 
-    name: Hmg
+    name: hmg
     url: 'julioarruda.com'
-    needs: deploy-Dev
+    needs: deploy-dev
   steps:
     - name: Run a one-line script
       run: echo Deploy Hmg
       
-  deploy-Prd:
+  deploy-prd:
   runs-on: ubuntu-latest
   environment: 
-    name: Prd
+    name: prd
     url: 'julioarruda.com'
-    needs: deploy-Hmg
+    needs: deploy-hmg
   steps:
     - name: Run a one-line script
       run: echo Deploy Prd

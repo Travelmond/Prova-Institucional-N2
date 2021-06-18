@@ -21,7 +21,7 @@ jobs:
     - name: Run a one-line script
       run: echo Deploy Dev
       
-    deploy-Hmg:
+  deploy-Hmg:
   runs-on: ubuntu-latest
   environment: 
     name: Hmg

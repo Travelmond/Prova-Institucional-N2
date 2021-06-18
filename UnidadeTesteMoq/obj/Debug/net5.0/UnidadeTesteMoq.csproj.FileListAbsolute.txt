@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.exe
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.deps.json
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.runtimeconfig.json
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.dll
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\ref\UnidadeTesteMoq.dll
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\bin\Debug\net5.0\UnidadeTesteMoq.pdb
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.dll
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\ref\UnidadeTesteMoq.dll
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.pdb
+C:\Users\Aluno\source\repos\UnidadeTesteMoq\obj\Debug\net5.0\UnidadeTesteMoq.genruntimeconfig.cache

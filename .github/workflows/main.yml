@@ -6,38 +6,38 @@ on:
   
 jobs: 
   build:
-  runs-on: ubuntu-latest
-  steps:
+    runs-on: ubuntu-latest
+    steps:
     - name: Run a one-line script
       run: echo Hello World!
       
   deploy-dev:
-  runs-on: ubuntu-latest
-  environment: 
-    name: dev
-    url: 'julioarruda.com'
+    runs-on: ubuntu-latest
+    environment: 
+      name: dev
+      url: 'julioarruda.com'
     needs: build
-  steps:
+    steps:
     - name: Run a one-line script
       run: echo Deploy Dev
       
   deploy-hmg:
-  runs-on: ubuntu-latest
-  environment: 
-    name: hmg
-    url: 'julioarruda.com'
+    runs-on: ubuntu-latest
+    environment: 
+      name: hmg
+      url: 'julioarruda.com'
     needs: deploy-dev
-  steps:
+    steps:
     - name: Run a one-line script
       run: echo Deploy Hmg
       
   deploy-prd:
-  runs-on: ubuntu-latest
-  environment: 
-    name: prd
-    url: 'julioarruda.com'
+    runs-on: ubuntu-latest
+    environment: 
+      name: prd
+      url: 'julioarruda.com'
     needs: deploy-hmg
-  steps:
+    steps:
     - name: Run a one-line script
       run: echo Deploy Prd
       
